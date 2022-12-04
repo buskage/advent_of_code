@@ -7,4 +7,3 @@ https://adventofcode.com/2022/
 |   4 |    Rust      |  rustc main.rs       |  ./main   |
 |   5 |          |         |     |
 |   6 |          |         |     |
-|-----|----------|---------|-----|
