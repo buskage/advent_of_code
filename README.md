@@ -7,5 +7,5 @@ https://adventofcode.com/2022/
 |   2 |   LibreCalc | NA | NA |
 |   3 | javascript|   -    |   paste in dev console  |
 |   4 |    Rust      |  rustc main.rs       |  ./main   |
-|   5 |          |         |     |
+|   5 |  Java  |         |     |
 |   6 |          |         |     |
